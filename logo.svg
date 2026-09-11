@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" role="img" aria-labelledby="title desc">
+<title id="title">Lumora</title><desc id="desc">Lumora official brand logo</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D9FF52"/><stop offset="1" stop-color="#7CF6C5"/></linearGradient></defs>
+<rect x="3" y="3" width="90" height="90" rx="25" fill="#070908" stroke="#2D3A32" stroke-width="2"/>
+<path d="M30 22v50c0 8 5 12 13 12h27" fill="none" stroke="url(#g)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 56c14-21 40-28 64-15" fill="none" stroke="#FF7657" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+<circle cx="78" cy="31" r="5" fill="#D9FF52"/>
+<text x="112" y="65" fill="#F4F7F2" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="800" letter-spacing="5">LUMORA</text>
+</svg>
